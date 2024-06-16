@@ -344,6 +344,13 @@ body > p {
     padding: 0 20px;
 }
 
+.title {
+    font-size: 19px;
+    font-family: sans-serif;
+    font-weight: 400;
+    color: #131313;
+}
+
 .price {
     font-size: 19px;
     font-family: sans-serif;
